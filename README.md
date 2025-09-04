@@ -100,8 +100,6 @@
 <b>Condição de vitória:</b>
 
 <input type="checkbox" id="vitoria-item" />
-<<<<<<< HEAD
 <label for="vitoria-item">Ao final, vence quem acumulou mais pontos</label>
 =======
 <label for="vitoria-item">Ao final, vence quem acumulou mais pontos</label>
->>>>>>> 20ce5b0a920af34fce825fe47e22a0ab93bf9430
